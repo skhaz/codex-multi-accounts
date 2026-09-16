@@ -1,0 +1,9 @@
+codex_home = "~/.codex"
+auth_file = "auth.json"
+accounts_dir = "cx/accounts"
+codex_command = "codex"
+usage_url = "https://chatgpt.com/backend-api/wham/usage"
+token_url = "https://auth.openai.com/oauth/token"
+client_id = "app_EMoamEEZ73f0CkXaXp7hrann"
+timeout_seconds = 15
+workers = 8
